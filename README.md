@@ -1,2 +1,2 @@
-# first_example
+# first_example Lomann
 
